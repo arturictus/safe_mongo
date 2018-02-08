@@ -21,8 +21,9 @@ Or install it yourself as:
     $ gem install safe_mongo
 
 ## Usage
+Based on documentation in:
+https://mongoid.github.io/old/en/mongoid/docs/persistence.html
 
-TODO: Write usage instructions here
 
 ## Development
 
